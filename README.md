@@ -23,5 +23,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-# Modern-React-with-Redux
+
 # Modern-React-with-Redux
