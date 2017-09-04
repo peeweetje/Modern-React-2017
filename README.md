@@ -24,4 +24,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 
-# Modern-React-with-Redux
+# Modern-React-2017
