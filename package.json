@@ -23,7 +23,7 @@
     "mocha": "^10.1.0",
     "react-addons-test-utils": "^0.14.7",
     "webpack": "^5.74.0",
-    "webpack-dev-server": "^1.14.0"
+    "webpack-dev-server": "^5.0.1"
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
